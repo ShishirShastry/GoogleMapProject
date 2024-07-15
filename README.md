@@ -7,3 +7,9 @@ Additionally, the application includes buttons for zooming in and out and toggli
 **
 
 NOTE: Open Activity_maps.xml and MapsActivity.java to View the output by clicking "RUN"
+![map1](https://github.com/user-attachments/assets/f7c4a65e-abe8-49da-bed8-2805c083a0c5)
+
+![map3](https://github.com/user-attachments/assets/52c08cf4-b9ff-46ab-986d-7b5a1803d328)
+
+![map2](https://github.com/user-attachments/assets/83bcaf31-ddfe-4be9-9078-5447df77cb33)
+
