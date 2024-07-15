@@ -1,4 +1,5 @@
 #CUSTOM GOOGLE MAPS
+
 **
 This project is an Android application that integrates Google Maps functionality, allowing users to interact with a map interface.
 Users can add, clear, and manage event markers on the map, as well as search for events using a built-in search view.
